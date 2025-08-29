@@ -34,7 +34,7 @@ Here are some example images from the `assets` folder demonstrating different ef
 
 | Original | Grayscale | Sepia | Blur |
 |----------|-----------|-------|------|
-| ![Original](assets/original.jpg) | ![Grayscale](assets/grayscale.jpg) | ![Sepia](assets/sepia.jpg) | ![Blur](assets/blur.jpg) |
+| ![Original](src/assets/original.jpg) | ![Grayscale](src/assets/grayscale/grayscale.jpg) | ![Sepia](src/assets/sepia/sepia.jpg) | ![Blur](src/assets/blur/blur.jpg) |
 
 You can find more examples in the `assets` directory.
 
